@@ -438,9 +438,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"../images/cta_btn.png?1617738245562", id:"cta_btn"},
-		{src:"../images/_img.jpg?1617738245562", id:"_img"},
-		{src:"../images/volvo.png?1617738245562", id:"volvo"}
+		{src:"/ad_volvo/images/cta_btn.png?1617738245562", id:"cta_btn"},
+		{src:"/ad_volvo/images/_img.jpg?1617738245562", id:"_img"},
+		{src:"/ad_volvo/images/volvo.png?1617738245562", id:"volvo"}
 	],
 	preloads: []
 };
